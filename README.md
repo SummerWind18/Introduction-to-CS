@@ -1,5 +1,5 @@
 # Introduction to CS
- A plan and a summary
+ A personal planning and a course summary, which are the homework of The Introduction to CS of 2020.
 
 ## Article
 Some paper downloaded from the Internet for further learning as well as for homeworks.
@@ -8,7 +8,4 @@ Some paper downloaded from the Internet for further learning as well as for home
 The homework should be submitted or presented, which is required to be upload to Github.
 
 ### Prestation
-We introduce something about the Urban Planning, together with my partner.
-
-## PPT
-The PPT which showed during classes, it contains information for further learning. And we can write our homework according to this.
+We introduce something about the Urban Planning, together with my partner. And the PPT has already been submitted.
